@@ -31,7 +31,7 @@
 
 <p align="left">I'm Leonardo Angonese from Canoas, RS.<br><br>- 🔭 I’m a fullstack developer.</p>
   <a href="https://leoangonese.github.io/portfolio/" target="_blank">
-    - My page.
+    - My portfolio.
   </a> 
   </br>
   <a href="https://simplifybrzl.com.br/" target="_blank">
