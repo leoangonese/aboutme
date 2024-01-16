@@ -39,9 +39,9 @@
 
 ###
 
-Front-end: ReactJS, NextJS, Typescript, JavaScript, HTML, CSS, TailwindCss e Bootstrap.
-Back-end: NodeJS, NestJS e Java.
-Database: MySQL e MongoDB.
-Mobile: React Native e Flutter
-Cloud and Amplification: AWS Amplify e AWS (Amazon Web Services)
-Additional Tools and Technologies: Docker, RabbitMq, Jest (para testes) e GIT.
+Front-end: ReactJS, NextJS, Typescript, JavaScript, HTML, CSS, TailwindCss e Bootstrap. <br/>
+Back-end: NodeJS, NestJS e Java.<br/>
+Database: MySQL e MongoDB.<br/>
+Mobile: React Native e Flutter<br/>
+Cloud and Amplification: AWS Amplify e AWS (Amazon Web Services)<br/>
+Additional Tools and Technologies: Docker, RabbitMq, Jest (para testes) e GIT.<br/>
